@@ -7,5 +7,5 @@ This repository contains two code notebooks focused on medical image segmentatio
 
 ## Notebooks
 
-- **`2d_binary_segmentation.ipynb`**: Code for training and evaluating the U-Net model on 2D brain MRI images for binary segmentation.
-- **`3d_multiclass_segmentation.ipynb`**: Code for training and evaluating a U-Net-based model for 3D multiclass segmentation on brain MRI volumes.
+- **`2D_segmentation.ipynb`**: Code for training and evaluating the U-Net model on 2D brain MRI images for binary segmentation.
+- **`Brats2020_segmentation.ipynb`**: Code for training and evaluating a U-Net-based model for 3D multiclass segmentation on brain MRI volumes.
